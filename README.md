@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Görkem ÇOBAN</h1>
-<h3 align="center">A passionate penetration tester from Turkey</h3>
+<h3 align="center">A passionate AI & LLM enthusiast from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
